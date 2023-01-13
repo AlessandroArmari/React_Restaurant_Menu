@@ -1,0 +1,21 @@
+.Card {
+  margin: 10px;
+  border-radius: 13px;
+}
+
+.pizzaName {
+  color: green;
+  border-top: solid black;
+  border-left: solid black;
+  border-right: solid black;
+  border-radius: 5px;
+  padding: 5px;
+  padding-left: 7px;
+  text-align: left;
+}
+
+.ingredient {
+  padding: 10px;
+  border: solid black;
+  border-radius: 5px;
+}
