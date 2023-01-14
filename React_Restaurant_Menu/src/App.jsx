@@ -1,6 +1,6 @@
 import { Card } from "./Card/Card";
 import { Head } from "./Head/Head";
-
+import "./App.css";
 const pizzas = [
   {
     name: "Margherita",

@@ -1,5 +1,24 @@
 .head {
-  padding-left: 15px;
-  padding-bottom: 15px;
-  background-color: darksalmon;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+
+  background-color: khaki;
+  border: solid black;
+  border-radius: 15px;
+  display: grid;
+  grid-template-columns: 90% 10%;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.basket {
+  background-color: orange;
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border: solid black 3px;
+  border-radius: 10px;
+  margin-top: 28%;
+  margin-right: 20%;
+  padding-top: 10%;
 }
